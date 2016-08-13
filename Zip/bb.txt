@@ -1,0 +1,122 @@
+bb.zip
+====================
+Compressed size: 33
+Version needed to extract: 1.0
+General purpose bit flag: 0
+Compression method: 0
+Last mod file time: 0:2:48
+Last mod file date: 18.1.2014
+CRC32: A901B9E4
+Compressed size: 33
+Uncompressed size: 33
+File name length: 7
+Extra field length: 0
+File name: ddd.txt
+Extra field: 
+File data: laksdnfkj asdlfa
+sdaa
+
+
+aas
+
+----
+Version made by: 31
+Version needed to extract: 1.0
+General purpose bit flag: 0
+Compression method: 0
+Last mod file time: 0:2:48
+Last mod file date: 18.1.2014
+CRC32: A901B9E4
+Compressed size: 33
+Uncompressed size: 33
+File name length: 7
+Extra field length: 36
+File comment length: 0
+Disk number start: 0
+Internal file attributes: 0
+External file attributes: 32
+Relative offset of local header: 0
+File name: ddd.txt
+Extra field: 20000A 0 180001 18DEE7B0 1CF13BF 15542D09 1CF13BF 15542D09 1CF13BF 
+File comment: 
+====================
+Compressed size: 0
+Version needed to extract: 1.0
+General purpose bit flag: 0
+Compression method: 0
+Last mod file time: 0:2:32
+Last mod file date: 18.1.2014
+CRC32: 0
+Compressed size: 0
+Uncompressed size: 0
+File name length: 2
+Extra field length: 0
+File name: f/
+Extra field: 
+File data: 
+----
+Version made by: 31
+Version needed to extract: 1.0
+General purpose bit flag: 0
+Compression method: 0
+Last mod file time: 0:2:32
+Last mod file date: 18.1.2014
+CRC32: 0
+Compressed size: 0
+Uncompressed size: 0
+File name length: 2
+Extra field length: 36
+File comment length: 0
+Disk number start: 0
+Internal file attributes: 0
+External file attributes: 16
+Relative offset of local header: 70
+File name: f/
+Extra field: 20000A 0 180001 F83BF9E 1CF13BF F83BF9E 1CF13BF A33A7A4 1CF13BF 
+File comment: 
+====================
+Compressed size: 14
+Version needed to extract: 1.0
+General purpose bit flag: 0
+Compression method: 0
+Last mod file time: 0:2:36
+Last mod file date: 18.1.2014
+CRC32: 9C31E4AE
+Compressed size: 14
+Uncompressed size: 14
+File name length: 9
+Extra field length: 0
+File name: f/qwe.txt
+Extra field: 
+File data: asdasd
+aaa
+c
+----
+Version made by: 31
+Version needed to extract: 1.0
+General purpose bit flag: 0
+Compression method: 0
+Last mod file time: 0:2:36
+Last mod file date: 18.1.2014
+CRC32: 9C31E4AE
+Compressed size: 14
+Uncompressed size: 14
+File name length: 9
+Extra field length: 36
+File comment length: 0
+Disk number start: 0
+Internal file attributes: 0
+External file attributes: 32
+Relative offset of local header: 102
+File name: f/qwe.txt
+Extra field: 20000A 0 180001 113F0AAC 1CF13BF E99351F 1CF13BF E99351F 1CF13BF 
+File comment: 
++++++++++++++++
+Number of this disk: 0
+Number of the disk with the start of the central directory: 0
+Total number of entries in the central directory on this disk: 3
+Total number of entries in the central directory: 3
+Size of the central directory: 264
+Offset of start of central directory with respect to the starting disk number: 155
+.ZIP file comment length: 0
+.ZIP file comment: 
